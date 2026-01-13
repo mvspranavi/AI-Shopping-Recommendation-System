@@ -1,4 +1,4 @@
-# 🛒 DashCart : AI-Powered Shopping Recommendation System
+# 🛒 AI-Powered Shopping Recommendation System
 
 This project is an intelligent shopping recommendation platform that delivers personalized product suggestions based on customer ID. It combines traditional data insights with advanced AI agents for a rich, dynamic recommendation experience.
 
@@ -120,9 +120,4 @@ The Flask app (app.py) provides a UI to enter a customer_id and view recommendat
     - run_flow.py
     - app.py
 
-## 🫱🏻‍🫲🏻 Contributions
-We welcome contributions to the DashCart AI-Powered Shopping Recommendation System! Whether you’re fixing a bug, adding features, or improving documentation, your input helps make this project better.
-
-## 📄 License
-This project is licensed under the MIT License.
 

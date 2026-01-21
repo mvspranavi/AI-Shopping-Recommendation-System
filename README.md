@@ -103,8 +103,8 @@ The Flask app (app.py) provides a UI to enter a customer_id and view recommendat
 ### 1. Clone the Repository
 
     
-    git clone https://github.com/username/AI Shopping Recommendation System.git
-    cd AI Shopping Recommendation System
+    git clone https://github.com/username/AI-Shopping-Recommendation-System.git
+    cd AI-Shopping-Recommendation-System
 
 ### 2. Create and Activate Virtual Environment
     
